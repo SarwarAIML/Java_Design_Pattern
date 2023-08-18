@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.gs.AppTest" time="0.004" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2022.2.3"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="20.0.2+9-78"/>
+    <property name="sun.boot.library.path" value="C:\Users\Gulam Sarwar\.jdks\openjdk-20.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\JAVA\DesignPatterns"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\JAVA\DesignPatterns"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="20.0.2+9-78"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\GULAMS~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="maven.ext.class.path" value="C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Users\Gulam Sarwar\.jdks\openjdk-20.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Installation\ANACONDA;C:\Installation\ANACONDA\Library\mingw-w64\bin;C:\Installation\ANACONDA\Library\usr\bin;C:\Installation\ANACONDA\Library\bin;C:\Installation\ANACONDA\Scripts;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_202\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Brackets\command;C:\Installation\Gradle\gradle-6.4\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\Installation\Redis\;D:\pulural site;C:\Program Files\Git\cmd;D:\installation\kubectl;C:\Users\Gulam Sarwar\AppData\Local\atom\bin;D:\installation\cmder\bin;C:\Installation\Mavean\maven-3.8.1\bin;C:\Installation\SPARK\spark-3.1.3-bin-hadoop2.7\bin;C:\Installation\hadoop\bin;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\scala\bin;C:\Installation\java\java8\jdk1.8.0_202\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Installation\ANACONDA3;C:\Installation\ANACONDA3\Library\mingw-w64\bin;C:\Installation\ANACONDA3\Library\usr\bin;C:\Installation\ANACONDA3\Library\bin;C:\Installation\ANACONDA3\Scripts;C:\Users\Gulam Sarwar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Installation\WebStorm\WebStorm 2019.1\bin;C:\Installation\cmder\bin;C:\Installation\Gradle\gradle-6.4\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\Redis;C:\Program Files\Multipass\bin;C:\Users\Gulam Sarwar\AppData\Local\Microsoft\WindowsApps;C:\Installation\SPARK\spark-3.1.3-bin-hadoop2.7\bin;C:\Installation\hadoop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2022.1.2\bin;C:\Users\Gulam Sarwar\AppData\Local\Coursier\data\bin;C:\Program Files\Jet;C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;;C:\Installation\java\java8\jdk1.8.0_202\bin;C:\Users\Gulam Sarwar\AppData\Local\Pandoc\;C:\Users\Gulam Sarwar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\Gulam Sarwar\AppData\Roaming\npm;;."/>
+    <property name="maven.conf" value="C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="64.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.repo.local" value="C:\Users\Gulam Sarwar\.m2\repository"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Gulam Sarwar"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="20"/>
+    <property name="user.name" value="Gulam Sarwar"/>
+    <property name="java.class.path" value="C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.2.3 -s C:\Users\Gulam Sarwar\.m2\settings.xml -Dmaven.repo.local=C:\Users\Gulam Sarwar\.m2\repository install"/>
+    <property name="java.home" value="C:\Users\Gulam Sarwar\.jdks\openjdk-20.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="20.0.2"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.stderr.encoding" value="UTF-8"/>
+    <property name="maven.home" value="C:\Installation\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-07-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.stdout.encoding" value="UTF-8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.gs.AppTest" name="testApp" time="0.004"/>
+</testsuite>
