@@ -17,6 +17,7 @@ public class Account {
         return token;
     }
 
+
     public static Builder newBuilder() {
         return new Account().new Builder();
     }
